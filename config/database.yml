@@ -12,7 +12,7 @@ test:
   # this won't work
   adapter: postgresql
   encoding: unicode
-  database: projeto
+  database: projeto 
   pool: 5
   username: nascimento
   password: silva
